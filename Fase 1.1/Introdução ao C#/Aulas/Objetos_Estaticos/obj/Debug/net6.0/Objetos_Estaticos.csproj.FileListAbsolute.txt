@@ -1,0 +1,15 @@
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\Objetos_Estaticos\bin\Debug\net6.0\Objetos_Estaticos.exe
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\Objetos_Estaticos\bin\Debug\net6.0\Objetos_Estaticos.deps.json
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\Objetos_Estaticos\bin\Debug\net6.0\Objetos_Estaticos.runtimeconfig.json
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\Objetos_Estaticos\bin\Debug\net6.0\Objetos_Estaticos.dll
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\Objetos_Estaticos\bin\Debug\net6.0\Objetos_Estaticos.pdb
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\Objetos_Estaticos\obj\Debug\net6.0\Objetos_Estaticos.csproj.AssemblyReference.cache
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\Objetos_Estaticos\obj\Debug\net6.0\Objetos_Estaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\Objetos_Estaticos\obj\Debug\net6.0\Objetos_Estaticos.AssemblyInfoInputs.cache
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\Objetos_Estaticos\obj\Debug\net6.0\Objetos_Estaticos.AssemblyInfo.cs
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\Objetos_Estaticos\obj\Debug\net6.0\Objetos_Estaticos.csproj.CoreCompileInputs.cache
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\Objetos_Estaticos\obj\Debug\net6.0\Objetos_Estaticos.dll
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\Objetos_Estaticos\obj\Debug\net6.0\refint\Objetos_Estaticos.dll
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\Objetos_Estaticos\obj\Debug\net6.0\Objetos_Estaticos.pdb
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\Objetos_Estaticos\obj\Debug\net6.0\Objetos_Estaticos.genruntimeconfig.cache
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\Objetos_Estaticos\obj\Debug\net6.0\ref\Objetos_Estaticos.dll

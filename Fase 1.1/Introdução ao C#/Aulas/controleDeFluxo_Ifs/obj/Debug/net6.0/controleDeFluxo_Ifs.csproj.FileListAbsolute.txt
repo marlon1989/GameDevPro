@@ -1,0 +1,15 @@
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\controleDeFluxo_Ifs\bin\Debug\net6.0\controleDeFluxo_Ifs.exe
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\controleDeFluxo_Ifs\bin\Debug\net6.0\controleDeFluxo_Ifs.deps.json
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\controleDeFluxo_Ifs\bin\Debug\net6.0\controleDeFluxo_Ifs.runtimeconfig.json
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\controleDeFluxo_Ifs\bin\Debug\net6.0\controleDeFluxo_Ifs.dll
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\controleDeFluxo_Ifs\bin\Debug\net6.0\controleDeFluxo_Ifs.pdb
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\controleDeFluxo_Ifs\obj\Debug\net6.0\controleDeFluxo_Ifs.csproj.AssemblyReference.cache
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\controleDeFluxo_Ifs\obj\Debug\net6.0\controleDeFluxo_Ifs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\controleDeFluxo_Ifs\obj\Debug\net6.0\controleDeFluxo_Ifs.AssemblyInfoInputs.cache
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\controleDeFluxo_Ifs\obj\Debug\net6.0\controleDeFluxo_Ifs.AssemblyInfo.cs
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\controleDeFluxo_Ifs\obj\Debug\net6.0\controleDeFluxo_Ifs.csproj.CoreCompileInputs.cache
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\controleDeFluxo_Ifs\obj\Debug\net6.0\controleDeFluxo_Ifs.dll
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\controleDeFluxo_Ifs\obj\Debug\net6.0\refint\controleDeFluxo_Ifs.dll
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\controleDeFluxo_Ifs\obj\Debug\net6.0\controleDeFluxo_Ifs.pdb
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\controleDeFluxo_Ifs\obj\Debug\net6.0\controleDeFluxo_Ifs.genruntimeconfig.cache
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\controleDeFluxo_Ifs\obj\Debug\net6.0\ref\controleDeFluxo_Ifs.dll

@@ -1,0 +1,15 @@
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\LojaDeItems\bin\Debug\net6.0\LojaDeItems.exe
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\LojaDeItems\bin\Debug\net6.0\LojaDeItems.deps.json
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\LojaDeItems\bin\Debug\net6.0\LojaDeItems.runtimeconfig.json
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\LojaDeItems\bin\Debug\net6.0\LojaDeItems.dll
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\LojaDeItems\bin\Debug\net6.0\LojaDeItems.pdb
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\LojaDeItems\obj\Debug\net6.0\LojaDeItems.csproj.AssemblyReference.cache
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\LojaDeItems\obj\Debug\net6.0\LojaDeItems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\LojaDeItems\obj\Debug\net6.0\LojaDeItems.AssemblyInfoInputs.cache
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\LojaDeItems\obj\Debug\net6.0\LojaDeItems.AssemblyInfo.cs
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\LojaDeItems\obj\Debug\net6.0\LojaDeItems.csproj.CoreCompileInputs.cache
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\LojaDeItems\obj\Debug\net6.0\LojaDeItems.dll
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\LojaDeItems\obj\Debug\net6.0\refint\LojaDeItems.dll
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\LojaDeItems\obj\Debug\net6.0\LojaDeItems.pdb
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\LojaDeItems\obj\Debug\net6.0\LojaDeItems.genruntimeconfig.cache
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\LojaDeItems\obj\Debug\net6.0\ref\LojaDeItems.dll

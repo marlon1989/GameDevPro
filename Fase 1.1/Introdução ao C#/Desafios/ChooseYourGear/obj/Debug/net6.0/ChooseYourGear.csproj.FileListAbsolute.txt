@@ -1,0 +1,15 @@
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\ChooseYourGear\bin\Debug\net6.0\ChooseYourGear.exe
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\ChooseYourGear\bin\Debug\net6.0\ChooseYourGear.deps.json
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\ChooseYourGear\bin\Debug\net6.0\ChooseYourGear.runtimeconfig.json
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\ChooseYourGear\bin\Debug\net6.0\ChooseYourGear.dll
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\ChooseYourGear\bin\Debug\net6.0\ChooseYourGear.pdb
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\ChooseYourGear\obj\Debug\net6.0\ChooseYourGear.csproj.AssemblyReference.cache
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\ChooseYourGear\obj\Debug\net6.0\ChooseYourGear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\ChooseYourGear\obj\Debug\net6.0\ChooseYourGear.AssemblyInfoInputs.cache
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\ChooseYourGear\obj\Debug\net6.0\ChooseYourGear.AssemblyInfo.cs
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\ChooseYourGear\obj\Debug\net6.0\ChooseYourGear.csproj.CoreCompileInputs.cache
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\ChooseYourGear\obj\Debug\net6.0\ChooseYourGear.dll
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\ChooseYourGear\obj\Debug\net6.0\refint\ChooseYourGear.dll
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\ChooseYourGear\obj\Debug\net6.0\ChooseYourGear.pdb
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\ChooseYourGear\obj\Debug\net6.0\ChooseYourGear.genruntimeconfig.cache
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\ChooseYourGear\obj\Debug\net6.0\ref\ChooseYourGear.dll

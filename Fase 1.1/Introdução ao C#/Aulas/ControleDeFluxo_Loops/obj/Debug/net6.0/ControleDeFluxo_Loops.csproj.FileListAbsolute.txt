@@ -1,0 +1,15 @@
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\ControleDeFluxo_Loops\bin\Debug\net6.0\ControleDeFluxo_Loops.exe
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\ControleDeFluxo_Loops\bin\Debug\net6.0\ControleDeFluxo_Loops.deps.json
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\ControleDeFluxo_Loops\bin\Debug\net6.0\ControleDeFluxo_Loops.runtimeconfig.json
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\ControleDeFluxo_Loops\bin\Debug\net6.0\ControleDeFluxo_Loops.dll
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\ControleDeFluxo_Loops\bin\Debug\net6.0\ControleDeFluxo_Loops.pdb
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\ControleDeFluxo_Loops\obj\Debug\net6.0\ControleDeFluxo_Loops.csproj.AssemblyReference.cache
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\ControleDeFluxo_Loops\obj\Debug\net6.0\ControleDeFluxo_Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\ControleDeFluxo_Loops\obj\Debug\net6.0\ControleDeFluxo_Loops.AssemblyInfoInputs.cache
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\ControleDeFluxo_Loops\obj\Debug\net6.0\ControleDeFluxo_Loops.AssemblyInfo.cs
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\ControleDeFluxo_Loops\obj\Debug\net6.0\ControleDeFluxo_Loops.csproj.CoreCompileInputs.cache
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\ControleDeFluxo_Loops\obj\Debug\net6.0\ControleDeFluxo_Loops.dll
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\ControleDeFluxo_Loops\obj\Debug\net6.0\refint\ControleDeFluxo_Loops.dll
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\ControleDeFluxo_Loops\obj\Debug\net6.0\ControleDeFluxo_Loops.pdb
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\ControleDeFluxo_Loops\obj\Debug\net6.0\ControleDeFluxo_Loops.genruntimeconfig.cache
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\ControleDeFluxo_Loops\obj\Debug\net6.0\ref\ControleDeFluxo_Loops.dll

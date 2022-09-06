@@ -1,0 +1,15 @@
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\MelhorJogoDoUniverso\bin\Debug\net6.0\MelhorJogoDoUniverso.exe
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\MelhorJogoDoUniverso\bin\Debug\net6.0\MelhorJogoDoUniverso.deps.json
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\MelhorJogoDoUniverso\bin\Debug\net6.0\MelhorJogoDoUniverso.runtimeconfig.json
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\MelhorJogoDoUniverso\bin\Debug\net6.0\MelhorJogoDoUniverso.dll
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\MelhorJogoDoUniverso\bin\Debug\net6.0\MelhorJogoDoUniverso.pdb
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\MelhorJogoDoUniverso\obj\Debug\net6.0\MelhorJogoDoUniverso.csproj.AssemblyReference.cache
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\MelhorJogoDoUniverso\obj\Debug\net6.0\MelhorJogoDoUniverso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\MelhorJogoDoUniverso\obj\Debug\net6.0\MelhorJogoDoUniverso.AssemblyInfoInputs.cache
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\MelhorJogoDoUniverso\obj\Debug\net6.0\MelhorJogoDoUniverso.AssemblyInfo.cs
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\MelhorJogoDoUniverso\obj\Debug\net6.0\MelhorJogoDoUniverso.csproj.CoreCompileInputs.cache
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\MelhorJogoDoUniverso\obj\Debug\net6.0\MelhorJogoDoUniverso.dll
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\MelhorJogoDoUniverso\obj\Debug\net6.0\refint\MelhorJogoDoUniverso.dll
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\MelhorJogoDoUniverso\obj\Debug\net6.0\MelhorJogoDoUniverso.pdb
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\MelhorJogoDoUniverso\obj\Debug\net6.0\MelhorJogoDoUniverso.genruntimeconfig.cache
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\MelhorJogoDoUniverso\obj\Debug\net6.0\ref\MelhorJogoDoUniverso.dll

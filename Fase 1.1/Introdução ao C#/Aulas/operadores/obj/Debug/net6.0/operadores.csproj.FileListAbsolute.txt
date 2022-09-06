@@ -1,0 +1,15 @@
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\operadores\bin\Debug\net6.0\operadores.exe
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\operadores\bin\Debug\net6.0\operadores.deps.json
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\operadores\bin\Debug\net6.0\operadores.runtimeconfig.json
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\operadores\bin\Debug\net6.0\operadores.dll
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\operadores\bin\Debug\net6.0\operadores.pdb
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\operadores\obj\Debug\net6.0\operadores.csproj.AssemblyReference.cache
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\operadores\obj\Debug\net6.0\operadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\operadores\obj\Debug\net6.0\operadores.AssemblyInfoInputs.cache
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\operadores\obj\Debug\net6.0\operadores.AssemblyInfo.cs
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\operadores\obj\Debug\net6.0\operadores.csproj.CoreCompileInputs.cache
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\operadores\obj\Debug\net6.0\operadores.dll
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\operadores\obj\Debug\net6.0\refint\operadores.dll
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\operadores\obj\Debug\net6.0\operadores.pdb
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\operadores\obj\Debug\net6.0\operadores.genruntimeconfig.cache
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\operadores\obj\Debug\net6.0\ref\operadores.dll

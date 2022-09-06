@@ -1,0 +1,15 @@
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\ControleDeFluxo_Switch\bin\Debug\net6.0\ControleDeFluxo_Switch.exe
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\ControleDeFluxo_Switch\bin\Debug\net6.0\ControleDeFluxo_Switch.deps.json
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\ControleDeFluxo_Switch\bin\Debug\net6.0\ControleDeFluxo_Switch.runtimeconfig.json
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\ControleDeFluxo_Switch\bin\Debug\net6.0\ControleDeFluxo_Switch.dll
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\ControleDeFluxo_Switch\bin\Debug\net6.0\ControleDeFluxo_Switch.pdb
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\ControleDeFluxo_Switch\obj\Debug\net6.0\ControleDeFluxo_Switch.csproj.AssemblyReference.cache
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\ControleDeFluxo_Switch\obj\Debug\net6.0\ControleDeFluxo_Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\ControleDeFluxo_Switch\obj\Debug\net6.0\ControleDeFluxo_Switch.AssemblyInfoInputs.cache
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\ControleDeFluxo_Switch\obj\Debug\net6.0\ControleDeFluxo_Switch.AssemblyInfo.cs
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\ControleDeFluxo_Switch\obj\Debug\net6.0\ControleDeFluxo_Switch.csproj.CoreCompileInputs.cache
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\ControleDeFluxo_Switch\obj\Debug\net6.0\ControleDeFluxo_Switch.dll
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\ControleDeFluxo_Switch\obj\Debug\net6.0\refint\ControleDeFluxo_Switch.dll
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\ControleDeFluxo_Switch\obj\Debug\net6.0\ControleDeFluxo_Switch.pdb
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\ControleDeFluxo_Switch\obj\Debug\net6.0\ControleDeFluxo_Switch.genruntimeconfig.cache
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\ControleDeFluxo_Switch\obj\Debug\net6.0\ref\ControleDeFluxo_Switch.dll

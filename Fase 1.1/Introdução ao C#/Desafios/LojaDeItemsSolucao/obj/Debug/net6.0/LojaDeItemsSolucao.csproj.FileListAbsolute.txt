@@ -1,0 +1,15 @@
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\LojaDeItemsSolucao\bin\Debug\net6.0\LojaDeItemsSolucao.exe
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\LojaDeItemsSolucao\bin\Debug\net6.0\LojaDeItemsSolucao.deps.json
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\LojaDeItemsSolucao\bin\Debug\net6.0\LojaDeItemsSolucao.runtimeconfig.json
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\LojaDeItemsSolucao\bin\Debug\net6.0\LojaDeItemsSolucao.dll
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\LojaDeItemsSolucao\bin\Debug\net6.0\LojaDeItemsSolucao.pdb
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\LojaDeItemsSolucao\obj\Debug\net6.0\LojaDeItemsSolucao.csproj.AssemblyReference.cache
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\LojaDeItemsSolucao\obj\Debug\net6.0\LojaDeItemsSolucao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\LojaDeItemsSolucao\obj\Debug\net6.0\LojaDeItemsSolucao.AssemblyInfoInputs.cache
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\LojaDeItemsSolucao\obj\Debug\net6.0\LojaDeItemsSolucao.AssemblyInfo.cs
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\LojaDeItemsSolucao\obj\Debug\net6.0\LojaDeItemsSolucao.csproj.CoreCompileInputs.cache
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\LojaDeItemsSolucao\obj\Debug\net6.0\LojaDeItemsSolucao.dll
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\LojaDeItemsSolucao\obj\Debug\net6.0\refint\LojaDeItemsSolucao.dll
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\LojaDeItemsSolucao\obj\Debug\net6.0\LojaDeItemsSolucao.pdb
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\LojaDeItemsSolucao\obj\Debug\net6.0\LojaDeItemsSolucao.genruntimeconfig.cache
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\LojaDeItemsSolucao\obj\Debug\net6.0\ref\LojaDeItemsSolucao.dll

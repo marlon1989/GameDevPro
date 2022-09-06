@@ -1,0 +1,15 @@
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\MediaPonderada\bin\Debug\net6.0\MediaPonderada.exe
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\MediaPonderada\bin\Debug\net6.0\MediaPonderada.deps.json
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\MediaPonderada\bin\Debug\net6.0\MediaPonderada.runtimeconfig.json
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\MediaPonderada\bin\Debug\net6.0\MediaPonderada.dll
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\MediaPonderada\bin\Debug\net6.0\MediaPonderada.pdb
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\MediaPonderada\obj\Debug\net6.0\MediaPonderada.csproj.AssemblyReference.cache
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\MediaPonderada\obj\Debug\net6.0\MediaPonderada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\MediaPonderada\obj\Debug\net6.0\MediaPonderada.AssemblyInfoInputs.cache
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\MediaPonderada\obj\Debug\net6.0\MediaPonderada.AssemblyInfo.cs
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\MediaPonderada\obj\Debug\net6.0\MediaPonderada.csproj.CoreCompileInputs.cache
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\MediaPonderada\obj\Debug\net6.0\MediaPonderada.dll
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\MediaPonderada\obj\Debug\net6.0\refint\MediaPonderada.dll
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\MediaPonderada\obj\Debug\net6.0\MediaPonderada.pdb
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\MediaPonderada\obj\Debug\net6.0\MediaPonderada.genruntimeconfig.cache
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\MediaPonderada\obj\Debug\net6.0\ref\MediaPonderada.dll

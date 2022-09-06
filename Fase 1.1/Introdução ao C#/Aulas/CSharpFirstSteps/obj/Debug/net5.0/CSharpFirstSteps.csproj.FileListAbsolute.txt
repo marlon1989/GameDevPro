@@ -1,0 +1,16 @@
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\CSharpFirstSteps\bin\Debug\net5.0\CSharpFirstSteps.exe
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\CSharpFirstSteps\bin\Debug\net5.0\CSharpFirstSteps.deps.json
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\CSharpFirstSteps\bin\Debug\net5.0\CSharpFirstSteps.runtimeconfig.json
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\CSharpFirstSteps\bin\Debug\net5.0\CSharpFirstSteps.runtimeconfig.dev.json
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\CSharpFirstSteps\bin\Debug\net5.0\CSharpFirstSteps.dll
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\CSharpFirstSteps\bin\Debug\net5.0\CSharpFirstSteps.pdb
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\CSharpFirstSteps\obj\Debug\net5.0\CSharpFirstSteps.csproj.AssemblyReference.cache
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\CSharpFirstSteps\obj\Debug\net5.0\CSharpFirstSteps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\CSharpFirstSteps\obj\Debug\net5.0\CSharpFirstSteps.AssemblyInfoInputs.cache
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\CSharpFirstSteps\obj\Debug\net5.0\CSharpFirstSteps.AssemblyInfo.cs
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\CSharpFirstSteps\obj\Debug\net5.0\CSharpFirstSteps.csproj.CoreCompileInputs.cache
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\CSharpFirstSteps\obj\Debug\net5.0\CSharpFirstSteps.dll
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\CSharpFirstSteps\obj\Debug\net5.0\ref\CSharpFirstSteps.dll
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\CSharpFirstSteps\obj\Debug\net5.0\CSharpFirstSteps.pdb
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\CSharpFirstSteps\obj\Debug\net5.0\CSharpFirstSteps.genruntimeconfig.cache
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Aulas\CSharpFirstSteps\obj\Debug\net5.0\refint\CSharpFirstSteps.dll

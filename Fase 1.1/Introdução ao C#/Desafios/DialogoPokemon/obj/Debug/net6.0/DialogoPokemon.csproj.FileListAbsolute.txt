@@ -1,0 +1,15 @@
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\DialogoPokemon\bin\Debug\net6.0\DialogoPokemon.exe
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\DialogoPokemon\bin\Debug\net6.0\DialogoPokemon.deps.json
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\DialogoPokemon\bin\Debug\net6.0\DialogoPokemon.runtimeconfig.json
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\DialogoPokemon\bin\Debug\net6.0\DialogoPokemon.dll
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\DialogoPokemon\bin\Debug\net6.0\DialogoPokemon.pdb
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\DialogoPokemon\obj\Debug\net6.0\DialogoPokemon.csproj.AssemblyReference.cache
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\DialogoPokemon\obj\Debug\net6.0\DialogoPokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\DialogoPokemon\obj\Debug\net6.0\DialogoPokemon.AssemblyInfoInputs.cache
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\DialogoPokemon\obj\Debug\net6.0\DialogoPokemon.AssemblyInfo.cs
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\DialogoPokemon\obj\Debug\net6.0\DialogoPokemon.csproj.CoreCompileInputs.cache
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\DialogoPokemon\obj\Debug\net6.0\DialogoPokemon.dll
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\DialogoPokemon\obj\Debug\net6.0\refint\DialogoPokemon.dll
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\DialogoPokemon\obj\Debug\net6.0\DialogoPokemon.pdb
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\DialogoPokemon\obj\Debug\net6.0\DialogoPokemon.genruntimeconfig.cache
+C:\Users\Marlon\Documents\Game Dev Pro\Expert Mode\Fase 1.1\Desafios\DialogoPokemon\obj\Debug\net6.0\ref\DialogoPokemon.dll
